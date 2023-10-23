@@ -1,0 +1,5 @@
+1. sepatu
+2. buku
+3. pulpen
+4. kotak pensil
+5. laptop  
