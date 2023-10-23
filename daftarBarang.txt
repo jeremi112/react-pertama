@@ -3,3 +3,5 @@
 3. pulpen
 4. kotak pensil
 5. laptop  
+6.trelephon
+7.wifi
